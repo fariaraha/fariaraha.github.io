@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>An Appraisal of Hydroplaning Pavement Surface Improvement Materials and Assessment Models</title><link>https://fariaraha.com/publication/appraisal-of-hydropaning-pavement-surface-csce2022/</link><pubDate>Tue, 26 Apr 2022 01:22:35 -0700</pubDate><guid>https://fariaraha.com/publication/appraisal-of-hydropaning-pavement-surface-csce2022/</guid><description/></item><item><title>Slides</title><link>https://fariaraha.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://fariaraha.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Assessing the Impact of Vehicle Type on Pedestrian and Bicyclist Crash Injury Severity</title><link>https://fariaraha.com/publication/assessing-the-impact-of-vehicle-type/</link><pubDate>Mon, 01 Jan 2024 01:22:35 -0700</pubDate><guid>https://fariaraha.com/publication/assessing-the-impact-of-vehicle-type/</guid><description/></item><item><title>Investigating the Impact of the COVID-19 Pandemic on Traffic Crash Injury Outcomes among Different Demographic Groups</title><link>https://fariaraha.com/publication/investigating-the-impact-of-the-covid-19-pandemic/</link><pubDate>Mon, 01 Jan 2024 01:22:35 -0700</pubDate><guid>https://fariaraha.com/publication/investigating-the-impact-of-the-covid-19-pandemic/</guid><description/></item><item><title>Where to Implement Leading Pedestrian Intervals (LPIs): An Examination of Turning Vehicle-Pedestrian Crashes at Signalized Intersections</title><link>https://fariaraha.com/publication/where-to-implement-lpi/</link><pubDate>Mon, 01 Jan 2024 01:22:35 -0700</pubDate><guid>https://fariaraha.com/publication/where-to-implement-lpi/</guid><description/></item><item><title>An Appraisal of Hydroplaning Pavement Surface Improvement Materials and Assessment Models</title><link>https://fariaraha.com/publication/appraisal-of-hydropaning-pavement-surface-csce2022/</link><pubDate>Tue, 26 Apr 2022 01:22:35 -0700</pubDate><guid>https://fariaraha.com/publication/appraisal-of-hydropaning-pavement-surface-csce2022/</guid><description/></item><item><title>Slides</title><link>https://fariaraha.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://fariaraha.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
@@ -125,6 +125,41 @@ color: navy;
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title/><link>https://fariaraha.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fariaraha.com/admin/config.yml</guid><description/></item><item><title/><link>https://fariaraha.com/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fariaraha.com/news/</guid><description>&lt;hr>
+&lt;h2 id="center2023center">&lt;center>&lt;strong>2023&lt;/strong>&lt;/center>&lt;/h2>
+&lt;hr>
+&lt;ul>
+&lt;li>[2024-1] Faria Raha presented three first-authored papers in the TRB Annual Meeting 2024.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="center2023center-1">&lt;center>&lt;strong>2023&lt;/strong>&lt;/center>&lt;/h2>
+&lt;hr>
+&lt;ul>
+&lt;li>
+&lt;p>[2023-12] Faria visited Sinagua Middle School with the NAU AZTRANS team to share insights on civil and transportation engineering.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2023-10] Faria&amp;rsquo;s paper &amp;ldquo;Investigating the Impact of the COVID-19 Pandemic on Traffic Crash Injury Outcomes among Different Demographic Groups&amp;rdquo; has been accepted for presentation in TRB Annual Meeting 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2023-10] Faria&amp;rsquo;s paper &amp;ldquo;Assessing the Impact of Vehicle Type on Pedestrian and Bicyclsit Crash Injury Severity&amp;rdquo; has been accepted for presentation in TRB Annual Meeting 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2023-10] Faria&amp;rsquo;s paper &amp;ldquo;Where to Implement Leading Pedestrian Intervals (LPIs): An Examination of Turning Vehicle-Pedestrian Crashes at Signalized Intersections&amp;rdquo; has been accepted for presentation in TRB Annual Meeting 2024.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2023-9] Faria received the Best Graduate Research Paper award at the ITS Arizona 2023 for her paper &amp;ldquo;Where to Implement Leading Pedestrian Intervals (LPIs): An Examination of Turning Vehicle-Pedestrian Crashes at Signalized Intersections&amp;rdquo;.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2023-1] Faria Raha attended the Transportation Research Board (TRB) Annual Meeting 2023 as a Graduate Fellow from NAU.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2023-1] Faria Raha has been awarded the Craig Roberts Fellowship Award.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[2023-1] Faria Raha started her MS in Civil Engineering at Northern Arizona University.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
 &lt;h2 id="center2022center">&lt;center>&lt;strong>2022&lt;/strong>&lt;/center>&lt;/h2>
 &lt;hr>
 &lt;ul>
@@ -132,7 +167,7 @@ color: navy;
 &lt;p>[2022-4] Faria&amp;rsquo;s paper titled &amp;ldquo;An Appraisal of Hydroplaning Pavement Surface Improvement Materials and Assessment Models&amp;rdquo; has been accepted at Annual Conference of the Canadian Society for Civil Engineering (CSCE), 2022.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>[2022-1] Faria Raha has started her research on &amp;ldquo;the effect of COVID-19 on drivers' behavior&amp;rdquo; with Dr. Alyssa Ryan.&lt;/p>
+&lt;p>[2022-1] Faria Raha started her research on &amp;ldquo;the effect of COVID-19 on drivers' behavior&amp;rdquo; with Dr. Alyssa Ryan.&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;hr>
@@ -141,4 +176,4 @@ color: navy;
 * \[2021-1]
 * \[2021-1]
 - - --->&lt;blockquote>
-&lt;/blockquote></description></item><item><title>Analyzing the effect of COVID-19 on drivers with different demographic characteristics in motor vehicle crashes (ongoing research)</title><link>https://fariaraha.com/publication/analyzing-the-effect-of-pandemic-on-motor-vehicle-crashes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fariaraha.com/publication/analyzing-the-effect-of-pandemic-on-motor-vehicle-crashes/</guid><description/></item></channel></rss>
+&lt;/blockquote></description></item></channel></rss>
